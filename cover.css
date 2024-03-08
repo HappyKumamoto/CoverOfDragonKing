@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family:"Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
     color:#FFFFEE;
-    background: linear-gradient(#0077FF, skyblue) fixed;
+    background: linear-gradient(#336666, #669999) fixed;
     margin: 0 auto;
     overflow:hidden;     /*スクロールバーを隠す*/
   }
