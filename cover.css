@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family:"Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
     color:#FFFFEE;
-    background: linear-gradient(#336666, #669999) fixed;
+    background: linear-gradient(#336666, #66A963) fixed;
     margin: 0 auto;
     overflow:hidden;     /*スクロールバーを隠す*/
   }
@@ -14,7 +14,7 @@ body{
   text-align    : center;      /* 文字位置   */
   cursor        : pointer;     /* カーソル   */
   padding       : 12px 12px;   /* 余白       */
-  background    : #8EB63B;     /* 背景色     */
+  background    : #336666;     /* 背景色     */
   color         : #FFFFEE;     /* 文字色     */
   line-height   : 1em;         /* 1行の高さ  */
   transition    : .3s;         /* なめらか変化 */
